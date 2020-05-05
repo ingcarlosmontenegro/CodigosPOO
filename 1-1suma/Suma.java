@@ -1,5 +1,3 @@
-package suma;
-
 /**
 * sumar enteros capturados por joptionpane
 */

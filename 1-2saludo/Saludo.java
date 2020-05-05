@@ -1,5 +1,3 @@
-package saludo;
-
 /*
  *  ejemplo de captura con joptionpane
  */
