@@ -1,5 +1,3 @@
-
-
 public class Persona {
 
 	/**
@@ -76,7 +74,7 @@ public class Persona {
 			
 			public String fullName(String nombre, String apellidos){
 			
-						return "";	
+						return (nombre + " " + apellidos);	
 					 }
 
 }
