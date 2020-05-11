@@ -1,11 +1,11 @@
 import java.awt.Color;
 
-public class Coche {
+public class Carro {
 
   private Color color;
   private String placa;
 
-  public Coche(){
+  public Carro(){
   
   }
 
@@ -17,8 +17,8 @@ public class Coche {
     return placa;
   }
 
-  public void setColor(Color color){
-    this.color = color;
+  public void setColor(Color colorcito){
+    this.color = colorcito;
   } 
 
   public void setString(String placa){
@@ -26,7 +26,7 @@ public class Coche {
   }
 
   public static void main (String[] args){
-    Coche renault = new Coche();
+    Carro renault = new Carro();
     renault.setString ("AAA555");
     System.out.print(renault.getString());
   }
