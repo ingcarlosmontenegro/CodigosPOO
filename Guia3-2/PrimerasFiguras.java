@@ -20,7 +20,7 @@ public class PrimerasFiguras extends JApplet {
     PrimerasFiguras FigurasApplet = new PrimerasFiguras();
     FigurasApplet.init();
     frame.getContentPane().add(FigurasApplet);
-    frame.setSize(300,300);
+    frame.setSize(500,600);
     frame.setVisible(true);
   }
 }
