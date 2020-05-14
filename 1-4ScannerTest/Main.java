@@ -23,8 +23,7 @@ public class Main {
         int x = s.nextInt();
         System.out.println("Ingrese una frase: ");
         String palabra = s.next();
+        palabra = palabra + s.nextLine();
         System.out.println(palabra + x);
-
     }
-
 }
