@@ -1,4 +1,4 @@
-package ajedres1;
+package es.ajedres;
 
 public class Tablero {
     public final int ancho;
@@ -22,7 +22,7 @@ public class Tablero {
 
     public void pintar()
     {
-
+       
         for (int i = 0; i < alto; i++)
         {
             for (int j = 0; j < ancho; j++)

@@ -1,4 +1,4 @@
-package ajedres1;
+package es.ajedres;
 
 
 public class Dama {

@@ -1,9 +1,9 @@
-package ajedres1;
+package es.ajedres;
 
 
 public class Main {
 
-
+   
     public static void main(String[] args) {
         Tablero t = new Tablero(8, 8);
         t.blanca1 = new Dama(false, 0, 3);
