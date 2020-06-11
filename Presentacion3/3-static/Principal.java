@@ -23,6 +23,8 @@ public class Principal {
 
 		ClaseStatic.radio=10;
 		ClaseStatic.imprimir();
+    objStatic2.imprimir();
+    objStatic.imprimir();
 	}
 
 }

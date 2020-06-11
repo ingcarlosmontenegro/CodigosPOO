@@ -13,5 +13,9 @@ public class Cocina {
 		};
 		objTortelini.metodo();
 		objTortelini.metodo2();
+
+    Chef objChefcito = new Chef();
+    objChefcito.metodo();
+    objChefcito.metodo2();
 	}
 }
