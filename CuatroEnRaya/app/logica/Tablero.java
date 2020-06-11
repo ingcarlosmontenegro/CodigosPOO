@@ -8,7 +8,6 @@ public class Tablero{
       for (int j=0; j<3; j++){
         tableroJuego[i][j] = new Ficha();
         tableroJuego[i][j].setForma("-");
-
       }  
     }
   }
