@@ -23,8 +23,7 @@ public class Principal {
             contador.contar();
             System.out.println(contador.mostrarConteo());
         }
-        
-        
-            
+        JFrameContador gui = new JFrameContador();
+        gui.setVisible(true);     
     }
 }
