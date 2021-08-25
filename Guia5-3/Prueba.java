@@ -4,6 +4,6 @@ public class Prueba {
     while ( i > 0 ) {i --;}
     // las llaves aquí se podían haber omitido, puesto
     // que solo hay una sentencia.
-    System.out.println("Ahora i vale 0"); 
+    System.out.println("Ahora i vale "+ i); 
   }
 }

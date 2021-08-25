@@ -4,4 +4,4 @@ public class Fichas {
  public Fichas(String c){color=c;}
  
  public String dameColor(){return(color);}
-}
+}  

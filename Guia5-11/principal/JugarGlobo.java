@@ -25,6 +25,7 @@ public class JugarGlobo extends JApplet implements ActionListener {
 
  miGlobo = new Globo (20, 50, 50);
  }
+
  public void actionPerformed(ActionEvent event) {
  if (event.getSource() == agrandar)
  miGlobo.cambiarTamaño(10);
@@ -32,6 +33,7 @@ public class JugarGlobo extends JApplet implements ActionListener {
  miGlobo.cambiarTamaño(-10);
  repaint();
  }
+ 
  public void paint (Graphics g) {
  miGlobo.mostrar(g);
  }
