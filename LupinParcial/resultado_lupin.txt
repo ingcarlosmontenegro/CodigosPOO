@@ -1,0 +1,24 @@
+========================================
+Jugador: Carlos
+Fecha: 2026-09-11 09:11:37
+Resultado: GANÓ
+Puntos finales: 5000
+Vidas gastadas (atrapadas por perros): 0
+========================================
+
+========================================
+Jugador: CARLOS
+Fecha: 2026-09-11 09:15:37
+Resultado: GANÓ
+Puntos finales: 5000
+Vidas gastadas (atrapadas por perros): 0
+========================================
+
+========================================
+Jugador: CArlos
+Fecha: 2026-09-14 11:10:16
+Resultado: GANÓ
+Puntos finales: 5000
+Vidas gastadas (atrapadas por perros): 0
+========================================
+

@@ -1,0 +1,3 @@
+class Pepe extends Humano{
+	
+}
